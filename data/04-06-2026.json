@@ -1,0 +1,55 @@
+[
+    {
+        "type" : "Combiné",
+        "bmk" : {
+            "name" : "Winner",
+            "abbr" : "W"
+        },
+        "events" : [
+            {
+                "h" : "FC Barcelone",
+                "a" : "Real madrid",
+                "bet" : "PB2",
+                "cote" : "2.10",
+                "cnt" : "Espagne",
+                "chm" : "Liga",
+                "time" : "13:50",
+                "date" : "04/06/2026",
+                "status" : "pending"
+            },
+             {
+                "h" : "Bayern",
+                "a" : "AS Roma",
+                "bet" : "V1",
+                "cote" : "2.10",
+                "cnt" : "UEFA",
+                "chm" : "Champions leagues",
+                "time" : "23:50",
+                "date" : "04/06/2026",
+                "status" : "pending"
+            }
+        ]
+
+    },
+    {
+        "type" : "Simple",
+        "bmk" : {
+            "name" : "Ngenge",
+            "abbr" : "N"
+        },
+        "events" : [
+            {
+                "h" : "Bodo Glimt",
+                "a" : "Celtic glow",
+                "bet" : "X",
+                "cote" : "3.60",
+                "cnt" : "Norvège",
+                "chm" : "Liga 1",
+                "time" : "10:50",
+                "date" : "04/06/2026",
+                "status" : "pending"
+            }
+        ]
+
+    }
+]
